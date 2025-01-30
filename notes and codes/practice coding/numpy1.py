@@ -1,0 +1,1 @@
+##practice solutions of numpy
