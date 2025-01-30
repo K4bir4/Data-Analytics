@@ -1,4 +1,4 @@
-##practice solutions of numpy
+##practice solutions of numpy with instalaltion
 ##. Create a NumPy array of shape (5, 5) filled with random integers between 1 and 20. Replace all the elements in the third column with 1.
 import numpy as np
 
